@@ -1,1 +1,2 @@
 Kuidas kasutada Excelis VLOOKUP funktsiooni, et otsida väärtust ühes vahemikus ja tagastada seotud väärtus teisest vahemikust?
+Используйте функцию **VLOOKUP** в Excel с формулой `=VLOOKUP(lookup_value, table_array, col_index_num, FALSE)`, чтобы найти значение в одном диапазоне и вернуть связанное с ним значение из другого диапазона.
