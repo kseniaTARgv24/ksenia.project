@@ -1,1 +1,3 @@
 Kuidas kasutada Excelis VLOOKUP funktsiooni, et otsida väärtust ühes vahemikus ja tagastada seotud väärtus teisest vahemikust?
+
+=VLOOKUP(lookup_value, table_array, col_index_num, [range_lookup])
