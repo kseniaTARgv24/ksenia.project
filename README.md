@@ -1,17 +1,17 @@
 # Targvaraarenduse git ülesanne
 <a name="readme-top"></a>
-## TODO list - mida vaja teha
-Arvestuse saamiseks on vaja teha:
-* Kõik git ülesanndeid
-* Add
-* Commit
-* Push
+## TODO list
+* Vasta 3 kysimuseid
+* Pärast kysimusi vastamist kirjuta kõrval ausalt, kas ise vastasin või kasutasid *abi*
+* Failis "plaanid" kirjuta oma plaanidest
+* Iga tekti failis pane kirja oma nimi
+* "plaanid" failis joonista kassi. Ära kopi!
 ```
-git add .
-git commit -a -m "---"
-git push
+ /\_/\  
+( o.o ) 
+ > ^ <
 ```
 <a href="#readme-top">Ülesse</a>
 
 Vaata ka minu wp <a href="https://kseniaplesakova24.thkit.ee/wp">WP link</a>
-![image](https://github.com/user-attachments/assets/9a46389c-433e-4df5-bc5c-6088fffaa5a0)
+
