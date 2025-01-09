@@ -1,1 +1,5 @@
 Mis on erinevus klassidiagrammi ja järjestusdiagrammi vahel, ja millal on igaüks neist kõige kasulikum?
+
+Klassidiagramm: Näitab süsteemi struktuuri (klassid, atribuudid, meetodid ja seosed). Kasulik andmemudeli ja süsteemi arhitektuuri planeerimisel.
+
+Järjestusdiagramm: Näitab objektide omavahelist suhtlust ajas (sõnumid ja meetodikutsed). Kasulik süsteemi käitumise ja protsessivoogude analüüsimisel.
