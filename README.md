@@ -14,3 +14,4 @@ git push
 <a href="#readme-top">Ülesse</a>
 
 Vaata ka minu wp <a href="https://kseniaplesakova24.thkit.ee/wp">WP link</a>
+![image](https://github.com/user-attachments/assets/9a46389c-433e-4df5-bc5c-6088fffaa5a0)
