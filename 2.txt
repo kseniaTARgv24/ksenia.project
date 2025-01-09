@@ -1,1 +1,4 @@
 Milliseid Git käske tuleb kasutada, et lisada uus versioon (commit) oma muudatustega, kui oled valmis need salvestama?
+git add . 
+git commit -a -m "commit"
+git push
