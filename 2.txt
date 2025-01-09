@@ -1,1 +1,7 @@
 Milliseid Git käske tuleb kasutada, et lisada uus versioon (commit) oma muudatustega, kui oled valmis need salvestama?
+git status
+git add <failinimi>
+git add .
+
+
+
