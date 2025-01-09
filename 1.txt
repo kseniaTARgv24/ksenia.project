@@ -1,1 +1,2 @@
 Mis on erinevus klassidiagrammi ja järjestusdiagrammi vahel, ja millal on igaüks neist kõige kasulikum?
+Klassidiagramm ja järjestusdiagramm on mõlemad osa UML-i (Unified Modeling Language) diagrammide komplektist, kuid neil on erinevad eesmärgid ja kasutusvaldkonnad.
