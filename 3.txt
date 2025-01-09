@@ -1,0 +1,1 @@
+Kuidas kasutada Excelis VLOOKUP funktsiooni, et otsida väärtust ühes vahemikus ja tagastada seotud väärtus teisest vahemikust?
